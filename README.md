@@ -65,10 +65,9 @@ Generasi: 1 . . ■ . . . . ■ . . . ■ ■ . . . . . . . . . . . .
 
 (Simulasi terus berjalan hingga generasi ke-4)
 
-▶️ Cara Menjalankan Project 1️⃣ Clone Repository git clone [https://github.com/FaridAhmadS/praktikum-struktur-data.git
-](https://github.com/FaridAhmadS/Tugas-Struktur-Data/edit/main/README.md)
+▶️ Cara Menjalankan Project 
+1️⃣ Clone Repository git clone
 2️⃣ Masuk ke Folder cd praktikum-struktur-data
-
 3️⃣ Jalankan Program
 
 Untuk ADT Array:
